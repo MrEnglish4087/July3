@@ -18,10 +18,11 @@ public final class Constants {
   //}
 //constants for motor controller IDs
 
-public final static int frontRT = 0, 
-                        frontLT = 1,
-                        rearRT = 2,
-                        rearLT = 3;
+public final static int frontRT = 1, 
+                        frontLT = 2,
+                        rearRT = 3,
+                        rearLT = 4;
+                    
 
 //constants for Xbox Controller
 
